@@ -94,7 +94,7 @@ MFA对于处理的语音数据集有着如下的格式要求：
 
 这里提供生成好的数据集文件。
 
-https://cloud.tsinghua.edu.cn/d/ed86924e88e14023901a/
+https://cloud.tsinghua.edu.cn/d/11a89ed8ccbb4248a448/
 
 ![image](img3.png)
 
@@ -108,7 +108,7 @@ MFA提供了许多预训练模型，包括声学模型、字音转换（G2P）�
 
 本次实验要用到的声学模型和对应的词典已经上传到网盘
 
-https://cloud.tsinghua.edu.cn/d/ed86924e88e14023901a/
+https://cloud.tsinghua.edu.cn/d/11a89ed8ccbb4248a448/
 
 ![img](img4.png)
 
